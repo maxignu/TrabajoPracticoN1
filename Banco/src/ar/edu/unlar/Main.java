@@ -4,11 +4,11 @@
  */
 package ar.edu.unlar;
 
-import ar.edu.unlar.objetos.Accion;
-import ar.edu.unlar.objetos.Cliente;
-import ar.edu.unlar.objetos.Cuenta;
-import ar.edu.unlar.objetos.CuentaAhorro;
-import ar.edu.unlar.objetos.CuentaInversion;
+import ar.edu.unlar.Clases.Accion;
+import ar.edu.unlar.Clases.Cliente;
+import ar.edu.unlar.Clases.Cuenta;
+import ar.edu.unlar.Clases.CuentaAhorro;
+import ar.edu.unlar.Clases.CuentaInversion;
 import java.util.ArrayList;
 
 
